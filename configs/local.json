@@ -1,0 +1,15 @@
+{
+    "mysql": {
+        "username": "root",
+        "password": "123456",
+        "database": "sequelize_passport",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "redis": {
+        "host": "localhost",
+        "port": "6379",
+        "password": "123456789",
+        "tls": false
+    }
+}
